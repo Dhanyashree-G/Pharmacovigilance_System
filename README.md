@@ -18,10 +18,7 @@ This project implements an **AI-based, privacy-first pharmacovigilance follow-up
 ---
 
 ## 🏗️ System Architecture
-
-
-____
-
+<img width="1856" height="1184" alt="pharma_architecture diagram" src="https://github.com/user-attachments/assets/8747f4df-a6a3-40ea-8954-61a7cf8a9c06" />
 
 ---
 
