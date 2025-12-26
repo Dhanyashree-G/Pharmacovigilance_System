@@ -18,3 +18,61 @@ This project implements an **AI-based, privacy-first pharmacovigilance follow-up
 ---
 
 ## 🏗️ System Architecture
+
+
+____
+
+
+---
+
+## ✨ Features
+- 🔐 One-time secure follow-up links (48-hour expiry)
+- 🧠 AI-based missing field detection (NLP + rules)
+- 🧾 Dynamic forms displaying only missing fields
+- 🔑 AES-256 encryption for sensitive data
+- 🧬 MedDRA Preferred Term (PT) coding
+- 📄 E2B(R3)-style XML export
+- 📊 Safety Officer Dashboard with RBAC
+- 📜 Immutable audit logs
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Axios
+
+### Backend
+- Python
+- FastAPI
+- spaCy (NLP)
+- JWT (Authentication)
+- Cryptography (AES-256)
+
+### Database
+- MySQL
+
+### Standards & Compliance
+- MedDRA (Medical Dictionary for Regulatory Activities)
+- ICH E2B(R3)
+- GDPR
+- HIPAA
+- ALCOA+
+
+---
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+- Python 3.10+
+- Node.js 18+
+- MySQL 8+
+
+---
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/pharmacovigilance-followup-system.git
+cd pharmacovigilance-followup-system
